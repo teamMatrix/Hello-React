@@ -1,3 +1,3 @@
-# Hello-React
+# Hello
 
 Open main.js to edit the app.
